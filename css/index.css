@@ -16,11 +16,11 @@ main{
 }
 
 div{
-    background-color: aqua;
+    background-color: rgb(155, 0, 0);
     height: 145h;
 }
 footer{
-    background-color: yellowgreen;
+    background-color: rgb(255, 255, 255);
     height: 2.5vh;
  
 }
